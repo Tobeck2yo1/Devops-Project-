@@ -1,0 +1,48 @@
+                             ....
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'[1G[19A[47Coluwatobi@Ubuntu
+[47C----------------
+[47COS: Ubuntu 26.04 LTS (Resolute Raccoon) x86_64
+[47CHost: VirtualBox (1.2)
+[47CKernel: Linux 7.0.0-30-generic
+[47CUptime: 24 mins
+[47CPackages: 1551 (dpkg), 14 (snap)
+[47CShell: bash 5.3.9
+[47CDisplay (Virtual-1): 1280x800, 60 Hz
+[47CDE: GNOME 50.1
+[47CWM: Mutter (Wayland)
+[47CWM Theme: Yaru
+[47CTheme: Yaru [GTK2/3/4]
+[47CIcons: Yaru [GTK2/3/4]
+[47CFont: Ubuntu Sans (11pt) [GTK2/3/4]
+[47CCursor: Yaru (24px)
+[47CTerminal: Ptyxis 50.1
+[47CTerminal Font: Ubuntu Sans Mono (11pt)
+[47CCPU: Intel(R) Core(TM) i7-10710U (4) @ 1.61 GHz
+[47CGPU: VMware SVGA II Adapter
+[47CMemory: 2.62 GiB / 8.63 GiB (30%)
+[47CSwap: Disabled
+[47CDisk (/): 15.05 GiB / 98.68 GiB (15%) - ext4
+[47CLocal IP (enp0s3): 10.0.2.15/24
+[47CBattery (1): 93% [Charging, AC Connected]
+[47CLocale: en_US.UTF-8
+[47C
+[47C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[47C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
